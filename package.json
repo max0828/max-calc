@@ -1,0 +1,19 @@
+{
+  "name": "max-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max0828/max-calc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/max0828/max-calc/issues"
+  },
+  "homepage": "https://github.com/max0828/max-calc#readme"
+}
