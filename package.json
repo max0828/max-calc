@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/max0828/max-calc/issues"
   },
-  "homepage": "https://github.com/max0828/max-calc#readme"
+  "homepage": "https://github.com/max0828/max-calc#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
